@@ -17,5 +17,5 @@ def not_safe?(speed)
 	
 end
 	#test-expression ? if-true-expression : if-false-expression
-
+#(age > 10 ? (score < 80 ? 'behind' : 'above average') : (score < 50 ? 'behind' : 'above average'));
 
